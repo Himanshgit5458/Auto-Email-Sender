@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task Status Update</title>
+</head>
+<body>
+    <h2>Task: {task_name}</h2>
+    <p>Email: {email}</p>
+    <form action="/update_status" method="post">
+        <input type="hidden" name="row_index" value="{row_index}">
+        <input type="submit" name="status" value="Done">
+        <input type="submit" name="status" value="Not Done Yet">
+    </form>
+</body>
+</html>
