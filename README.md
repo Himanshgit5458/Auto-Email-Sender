@@ -2,7 +2,7 @@
 
 Automate your email communication using the Auto Email Sender project. This project enables you to fetch data from a Google Spreadsheet, send customized emails to corresponding recipients, and collect response inputs, all in an efficient and streamlined manner.
 
-![Alt Text](https://github.com/Himanshgit5458/Auto-Email-Sender/blob/main/image/Screenshot%202023-08-22%20160114.png)
+![Alt Text](https://github.com/Himanshgit5458/Auto-Email-Sender/blob/main/image/ss2.png)
 
 
 ## Overview
