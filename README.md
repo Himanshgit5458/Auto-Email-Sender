@@ -32,7 +32,7 @@ To make your Auto Email Sender project accessible and scalable, consider deployi
 
 To get started with the Auto Email Sender project:
 
-1. Clone this repository: `git clone https://github.com/yourusername/auto-email-sender.git`
+1. Clone this repository: `git clone https://github.com/himanshgit5458/auto-email-sender.git`
 2. Set up the required environment and permissions as outlined in the documentation.
 3. Customize the Python script to match your specific use case, including data sources and email content.
 4. Create and customize an HTML template for your email design.
